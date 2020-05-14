@@ -1,3 +1,5 @@
 Hola desde feature para conflicto
 Se incluye dato local desde la pagina para conflicto
+Nueva lines desde pagina
+Se incluye dato local desde la pagina para conflicto
 nuevo dato desde eclipse
