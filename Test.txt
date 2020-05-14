@@ -1,3 +1,2 @@
 Hola desde feature para conflicto
 Se incluye dato local desde la pagina para conflicto
-Se incluye nuevo conflicto
